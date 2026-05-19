@@ -1,0 +1,13 @@
+# For data manipulation
+pandas==2.2.2
+numpy==2.0.2
+
+# For data visualisation
+seaborn==0.13.2
+matplotlib==3.10.0
+
+# Confusion matrix packages for visualising model outcomes
+sklearn==1.6.1
+
+# OLS model
+statsmodels.api==0.14.6
